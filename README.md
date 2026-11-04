@@ -1,2 +1,2 @@
 # Form-Co
-this is a website that customers can upload there files and order prints or either buy and select from the available models that has been already in the market.
+This is a website built for customers who wants a printing service that they can upload there 3D .stl obj. 3mf. files and order prints stating quantity, material, copies, definition and either delivery or pickup, or either select and buy from the available models that has been already in the market.
